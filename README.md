@@ -5,7 +5,7 @@
 ![image alt](https://github.com/KhushiVaskar/OnlineGroceryShop_Using_Hibernate/blob/54814b98d0b317554192ee8ba4801806f424181b/WhatsApp%20Image%202025-04-11%20at%2011.45.29%20PM.jpeg)
 ![image alt](https://github.com/KhushiVaskar/OnlineGroceryShop_Using_Hibernate/blob/d279998a2292d5ac5cc3f1da3e3a075d6f41370d/WhatsApp%20Image%202025-04-11%20at%2011.46.29%20PM%20(1).jpeg)
 ![image alt](https://github.com/KhushiVaskar/OnlineGroceryShop_Using_Hibernate/blob/f8c5ab4e849b184c3cfffabb2a92027ec1c66378/WhatsApp%20Image%202025-04-11%20at%2011.48.15%20PM.jpeg)
-![image alt]["C:\Users\aksha\Downloads\WhatsApp Image 2025-04-11 at 11.47.45 PM.jpeg"]
+![image alt](https://github.com/KhushiVaskar/OnlineGroceryShop_Using_Hibernate/blob/960dcaa60b3a2e8780ec169e9ed9359f53aca362/WhatsApp%20Image%202025-04-11%20at%2011.47.45%20PM.jpeg)
 ![image alt]["C:\Users\aksha\Downloads\WhatsApp Image 2025-04-11 at 11.48.15 PM.jpeg"]
 
 
